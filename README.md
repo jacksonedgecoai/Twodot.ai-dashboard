@@ -1,4 +1,4 @@
-# Two Dot AI Agent Dashboard
+# Twodot.ai Dashboard
 
 A comprehensive dashboard for monitoring AI agents across multiple client companies, featuring performance metrics, relationship tracking, and business intelligence reporting.
 
@@ -35,8 +35,8 @@ A comprehensive dashboard for monitoring AI agents across multiple client compan
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd "Testing Agent"
+   git clone https://github.com/jacksonedgecoai/Twodot.ai-dashboard.git
+   cd Twodot.ai-dashboard
    ```
 
 2. **Open the dashboard**
@@ -66,7 +66,7 @@ A comprehensive dashboard for monitoring AI agents across multiple client compan
 ## Project Structure
 
 ```
-Testing Agent/
+Twodot.ai-dashboard/
 ├── dashboard/
 │   ├── index.html                          # Main entry point
 │   ├── dashboard.js                        # Core dashboard functionality
